@@ -1,4 +1,4 @@
-# 🔍 OSINT Cybersecurity Challenge (Hard Difficulty)
+# OSINT Cybersecurity Challenge 
 
 A suspicious image and server logs were recovered during an internal threat analysis.
 We believe a hidden flag is embedded using multiple OSINT clues.
